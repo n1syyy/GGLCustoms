@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1', 'gglcustoms.herokuapp.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', 'gglcustoms.herokuapp.com', 'www.gglcustoms.shop', 'gglcustoms.shop']
 
 
 # Application definition
